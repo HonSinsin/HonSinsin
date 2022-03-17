@@ -15,7 +15,7 @@
 
 # Here is HonSinSin 👋
 
-Hi, I'm [HonSinSin](https://www.huiyadan.com), a developer.
+Hi, I'm HonSinSin, a developer.
 
 💬 Ask me about anything [here](https://github.com/HonSinSin/HonSinSin/issues).
 

@@ -9,15 +9,18 @@
 💬 Ask me about anything [here](https://github.com/HonSinSin/HonSinSin/issues).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HonSinSin.HonSinSin)
+
+important-information Important: This information should be prioritized
+
 -->
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=HonSinSin&show_icons=true&&theme=material-palenight&hide=["contribs"]&&hide_title=true' /> 
 
-# Here is HonSinSin 👋
-
-Hi, I'm HonSinSin, a developer.
+Hi, I'm HonSinSin, A .NET developer with PMP certification.
 
 💬 Ask me about anything [here](https://github.com/HonSinSin/HonSinSin/issues).
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HonSinSin&hide=html,css,smali,makefile,dogescript,shell,batchfile,php,ejs&langs_count=10)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=HonSinSin.HonSinSin)
 
